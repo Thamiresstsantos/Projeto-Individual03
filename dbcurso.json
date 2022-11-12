@@ -1,0 +1,54 @@
+{
+  "alunos": [
+    {
+      "nome": "Thamires Santos",
+      "endereço": "Rua das flores",
+      "bairro": "Santa Cruz",
+      "cidade": "Rio de Janeiro",
+      "email": "thamiresstsantos@gmail.com",
+      "Tratamento": "Limpezade pele",
+      "id_Matricula":0003,
+      "id": 1
+    },
+    {
+      "nome": "Guilherme Albuquerque",
+      "endereço": "Rua das Palmeiras",
+      "bairro": "Padre Miguel",
+      "cidade": "Rio de Janeiro",
+      "email": "guilhermealbuquerque@gmail.com",
+      "tratamento":"Drenagem",
+      "id_Matricula": 0002,
+      "id": 2
+    },
+    {
+      "nome": "Matheus Santana",
+      "endereço": "Rua Azeitona",
+      "bairro": "Bacacha",
+      "cidade": "Belo Horizonte",
+      "email": "matheussantana@gmail.com",
+      "tratamentos":"depilação a laser",
+      "id_matricula":0007,
+      "id": 3
+    },
+    {
+      "nome": "Fatima Bernardes",
+      "endereço": "Rua das Amoras",
+      "bairro": "Catete",
+      "cidade": "Rio de Janeiro",
+      "email": "fatimabernardes@gmail.com",
+      "tratamentos":"Alonfamento de Cilios",
+      "id_Matricula": 0027,
+      "id": 4
+    }
+  ],
+  "Pacotes": [
+    {
+      "nome": "Gordura localizada",
+      "id": 1
+    },
+    {
+      "nome": "Celulite",
+      "id": 2
+    }
+  ]
+}
